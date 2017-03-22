@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RSALab</string>
+    <string name="new_key">New Key</string>
+    <string name="import_key">Import Key</string>
+    <string name="title_prompt1">Enter title</string>
+    <string name="title_prompt2">Enter a title for your new RSA key...</string>
+    <string name="share_text">Share Text</string>
+</resources>
